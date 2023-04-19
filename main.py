@@ -1,6 +1,6 @@
-for a in range(10, 100):
-    x = int(str(a)[1])
-    if a / 7 == x:
-        print(a)
+for x in range(10, 100):
+    y = int(str(x)[1])
+    if x / 7 == y:
+        print(x)
     else:
         pass
